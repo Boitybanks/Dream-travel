@@ -70,15 +70,5 @@ header a {
 
   header h3 {
     font-size: 12px;
-  }
-
-  .img-responsive {
-    width: 100%;
-    display: block;
-  }
-  .grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 2rem;
-  }
+    }
 }
