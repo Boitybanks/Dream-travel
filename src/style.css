@@ -10,7 +10,7 @@ body {
 
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("../images/thai.jpg");
+    url("images/Thai.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
@@ -70,5 +70,5 @@ header a {
 
   header h3 {
     font-size: 12px;
-    }
+  }
 }
